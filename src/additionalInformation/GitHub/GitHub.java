@@ -9,7 +9,7 @@ public class GitHub {
     // git config --global user.email firenive@gmail.com
 
     // Создание репозитория git init
-    // Добавление всех файлов в репозиторий
+    // Добавление всех файлов в репозиторий git add . (или указываем имя определенного файла)
 
     // Первый коммит в локальный репозиторий git commit -m "first commit"
     // Соединение с gitHub git remote add origin https://github.com/firenive/LearnProject.git
@@ -19,5 +19,8 @@ public class GitHub {
     // Collaborations. Далее копируем для пользователя ссылку доступа и отправляем на почту
 
     // Для клонирования репозитория используем команду git clone https://github.com/jquery/jquery.git (как пример)
+    // git status Позволяет получить информацию о текущем состоянии репозитория
+
+    // Команда git pull Получает все обновления с сайта и вносит изменения в локальный репозиторий пользователя
 
 }
