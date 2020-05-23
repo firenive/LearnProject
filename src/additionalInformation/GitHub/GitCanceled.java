@@ -1,6 +1,7 @@
 package additionalInformation.GitHub;
 
 public class GitCanceled {
+    // https://youtu.be/oSyZXepztD4
     // для отмены изменений по локальному файлу, по которому еще не было commit and push достаточно указать в консоли
     // git checkout -- GitCanceled.java Откат происходит до состояния предыдущего коммита
 

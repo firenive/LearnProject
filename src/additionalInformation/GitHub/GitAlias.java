@@ -1,6 +1,7 @@
 package additionalInformation.GitHub;
 
 public class GitAlias {
+    // https://youtu.be/__GVBVv9Erg
     //  Алиасы в git это пользовательские сокращенные команды, которые позволяют выполнять стандартные команды git но
     //  использовать при это выбранные нами сокращения.
 
