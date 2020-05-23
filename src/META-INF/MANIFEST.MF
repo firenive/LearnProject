@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: Myrusakov.Chapter8_ExternalResourses.Lesson4_DataURL.Exe.Exe
+ Url
+

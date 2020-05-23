@@ -1,0 +1,3 @@
+java.lang.Throwable
+	at additionalInformation.Debug.DebugLearning.writer(DebugLearning.java:56)
+	at additionalInformation.Debug.DebugLearning.main(DebugLearning.java:32)

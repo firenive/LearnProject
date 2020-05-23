@@ -1,0 +1,19 @@
+package additionalInformation.Interfaces;
+
+public class Animal implements Info {
+    private int id;
+    public Animal(int id) {
+        this.id = id;
+    }
+    public void sleep() {
+        System.out.println("I am sleeping");
+    }
+
+    public int getId() {
+        return id;
+    }
+    @Override
+    public void showInfo() {
+        System.out.println("ID is " + this.id);
+    }
+}
